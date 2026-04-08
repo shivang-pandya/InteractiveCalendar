@@ -44,5 +44,5 @@ Open [http://localhost:3000](http://localhost:3000).
 
 ## Demo Links
 
-- **Video Demo (Required)**: https://youtu.be/-jc676Bhzn8
-- **Live Demo (Optional)**: [https://challenge-interactive-calendar.netlify.app/](https://challenge-interactive-calendar.netlify.app/)
+- **Video Demo**: https://youtu.be/-jc676Bhzn8
+- **Live Demo**: [https://challenge-interactive-calendar.netlify.app/](https://challenge-interactive-calendar.netlify.app/)
