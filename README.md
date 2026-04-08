@@ -35,15 +35,14 @@ Open [http://localhost:3000](http://localhost:3000).
 
 ## Key UX Details
 
-- Clicking one day sets the start date.
+- Clicking one day  sets the start date.
 - Clicking another day sets the end date (range auto-orders if clicked backwards).
 - Clicking again after a complete range starts a new range.
 - Notes are context-aware:
   - No complete range selected -> month memo
   - Complete range selected -> range memo
 
-## Submission Links
+## Demo Links
 
-- **Repository**: _Add your public GitHub/GitLab URL here_
-- **Video Demo (Required)**: _Add Loom/YouTube/screen recording link here_
-- **Live Demo (Optional)**: _Add Vercel/Netlify URL here_
+- **Video Demo (Required)**: https://youtu.be/-jc676Bhzn8
+- **Live Demo (Optional)**: [https://challenge-interactive-calendar.netlify.app/](https://challenge-interactive-calendar.netlify.app/)
